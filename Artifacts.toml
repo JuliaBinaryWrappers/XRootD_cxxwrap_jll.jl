@@ -1,853 +1,853 @@
 [[XRootD_cxxwrap]]
 arch = "aarch64"
-git-tree-sha1 = "a4109c578c2b0ee65c13a9061c72f53c49592057"
+git-tree-sha1 = "f97757efccdaa09d3dec5d45d8e66bc91995bede"
 julia_version = "1.10.0"
 os = "macos"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "97ef61498c089a8e58624d042f11b4320be65c7651b7bc1884a8bbfe72ba727b"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "6ce00b14e83c64644a7987333056057d6b1f9738dacf5e5936c6db8df226179e"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
-git-tree-sha1 = "179c1dbd7096b0e943e8bae4a800de8f6986bb2b"
-julia_version = "1.11.0"
+git-tree-sha1 = "1210ec23aac8453cb67be820cd9df023eacdfbe0"
+julia_version = "1.11.1"
 os = "macos"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "d1a0f8eeaeee02ed41b152790c0d5c1f804ad1d96fd17866cd87e4e66d217b53"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
+    sha256 = "67efeb5a0efe89158a867fc6baf681f4ca7d79de7e452d8115f12673e0885cd1"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
-git-tree-sha1 = "b9a896b3de775f1ac0016e2885ef72b5ce2e8ef3"
+git-tree-sha1 = "d56145f0f6ce068aa986aec0e34bd0e3dc052513"
 julia_version = "1.12.0"
 os = "macos"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "79b551fe70da8d72718887abad31f6561d1a8daec5d563617570b8ead96b850e"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "c9e910f7ac67b80769c0d0e45a0a1a91c77e2735905b576be836d1dfa2503783"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
-git-tree-sha1 = "3eacd6c2fc87c6f522230841f95e2d8921de94ca"
+git-tree-sha1 = "26818a9be1d0a333d178e18c9a5ff132f6097b38"
 julia_version = "1.7.0"
 os = "macos"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "657fae82f3881bea4bc960b6aeb2d19cec9f78e8d5c47247517601a2114761c3"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "f47d533624da077e8e4e8efd60b8b2cd01c4385e803436c253c51f334c1332b0"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
-git-tree-sha1 = "566a59360ac4bcac083155210897c31fcdc6dace"
+git-tree-sha1 = "f20cc545332c98c72f85bef1f9059a8c9085c898"
 julia_version = "1.8.2"
 os = "macos"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "14c5cd94d01a800113e262f8df2201c6a101d5bf98717657b3e9a8cdec363018"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "fff4616c09631297ce2504b14b5e774c6f60449f2f375b24b9f3d58755807590"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
-git-tree-sha1 = "c3f80d587b9982e393b2691bc8de887a08f868b9"
+git-tree-sha1 = "9ea205f4d39fbeb75244428b90e430d7b085d5f6"
 julia_version = "1.9.0"
 os = "macos"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "b591ed4fad3b01f3c201e8baba62887e290528ac3590bb6b0435109e026a6b27"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "705ef8f8e082ed8b30b370fda4396f1a1869291a1b26ea750dcea42326c091e1"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1a4b8773c62173202c54a50a3f3566622b428683"
+git-tree-sha1 = "bace2659f80a84a1224bdce9ae2c2ddf4ec37681"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "6314b1ea3004e2db8ac6dad432f9653a9b8e918ac37fe3ff9bee74a6e4377c39"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "9841b58200a2900d2e6dd82fd18ecf777bfdbdbae2e74edf7f0d3102ec3514d8"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d573c6f5baaed5b6ad1089d3713497fb06f692a4"
-julia_version = "1.11.0"
+git-tree-sha1 = "e6433a70ba21157e67aae048ed0173b8c20379f4"
+julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "b7b7031dadd9ec32d5941650d67d37ab5fa320717d2b00ef902721c193c7d30c"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "e49d09ee27dcf482c327b6585babc9b4143eafa241103f3d3c32ecde6490acaa"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ccd85339eded949a905f9452c1385f4b60d3e9ea"
+git-tree-sha1 = "1e2c3681abff4a21adf4f51fa80b99e89c4678e8"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "15d09239f3f0403511cc3fe3f5bd7498fdae5abb84dbe715bdb4a0980f5a1c3f"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "56e093c19111709059ee9cb5aec5c79a5b9749a41868d6e785ef6a3dd0282682"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "920d4fe1791c519e489894aff0620b9fbb0bf1d2"
+git-tree-sha1 = "7adea314446bb485b5c6ff6d77a285a6333fd06f"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "38c4e6b086f766e2ef555a473ccc5a51b6413ca616d234e1e2aacfc94d7de72d"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "38851e79583109f48892a951e5440a006ff41c5564f7d0e011dbd0154ced11eb"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a9b036dcec606b2459a9f2819cad1bfa00995e6e"
+git-tree-sha1 = "fc168016a8e6193cd0f235e0958fa6badab84855"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "f3638539b6d42b6092f334f61229e4ffbadf5d41411c4c50c070c1bb295aa31f"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "0595de1cf67ca59cc74e1cef275549183d1f734ae591f0ed8f8417b6e1735143"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b62bc7bf0963d412a9de1d68602c46bfdfcf69fa"
+git-tree-sha1 = "de6b91165b2a0f2e96efea86bc439f4a9315ca25"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "57a62145f1b346a9dbea0e46a39c9a63bfa3a1c16ea760b1362e10502b6c1434"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "1285d94623dfd2b122c5a5415cec3dc4df66e125269c0ca960c51bc5545411fb"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "790d3d128c9c1f4e490edd5e04c7e948bb3ec20c"
+git-tree-sha1 = "c24abd7bc56871b5d8a6856dfc28edb643441561"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "9dd9a287da94a7de56e4ef6db2e46fe54cf157a452cc3670fbb028169495b8db"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "711006ef7e0292ca7adcd386652f7ca2084a0038909014ace2a7a8cb568d0f21"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c0e577b24ad911b31e3a932a65b250149d8b3de7"
+git-tree-sha1 = "a867042c961fc55b81981468b989162b2c197210"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "2557e073e841be56c69be59fc48c950c180aa1b2395b8969350c7728caa61fb9"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "ebf6a8d2aeac0e79b79e8e55495ed206b174360a41b1591ea85aa49b4ebda2f5"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7babedceaaa7f51c013159fed5415cdfc2656892"
-julia_version = "1.11.0"
+git-tree-sha1 = "74c1a2e988d774eea606b8ef066acf405c7c9dea"
+julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "7fab5923983894af7f13c19e7f8e5c4cbc182f8b0c88fc67cdca7818db0a5fc5"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "08090b8c9894fe62707f917a8e08fb702ae5a6fcb63aec469115d3a702993937"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "959e37e13f68f194b08fcd15e1b688fd99732c23"
+git-tree-sha1 = "5578db151fa87441d47675548a219a718d44810a"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "649da6388d4fd123357eac2aecd5612396ef0b3a539ad6c35f211e31293f2e56"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "2f82c2d1ff6081eb352ac6d93420ead8bd3628a2a3c59e18d1e2d6ebfbd30bc0"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3a1909239e3fd01da08f7d1adbf6ba698c531834"
+git-tree-sha1 = "7105ef562235f6498a038bc673537790675ae285"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "4b72a8fc27d762769de7e27b812bee098458810f474c838e22a4c46f9322ffd5"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "aa9703bef4b6a602c676f156f6292dcf79c53aba746584cd6ebe09d8b4c25f84"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e4eba81c285ce216db937b29c331e8115a07c68e"
+git-tree-sha1 = "cec03a2ce2d32a9edfe19e24ddf177e5bdabf0c1"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "5843b455b7013af7abd8c16fdb0f9c31b94b116ea4400a8596416494b817f39d"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "f8fa2a08e4a839c6c8aad328c9238b8b0fcb49fc131a14a84e2daee7d6a2af6d"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "30faa244bef2923fc1a2dca31dbfff48c1910e8c"
+git-tree-sha1 = "ed281e4d061e494bf4adcd4399c453eb751e726d"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "6ab966a54bf21136028cc99a139d1565731abf14de5cfde5879d866a9dd1ca3f"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "4498c73b4e19dba80e47a7cda18e6cd77e46e400d0373863ed51c8f8154de690"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f50a1b83088fc3341a32ce06922e71245329442a"
+git-tree-sha1 = "e66023b67bcb97426039ac8c3d382e57d49f0220"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "97ad6d14d0e68ec8b11cdbdf64ab613a597c64ba4121b08ae847870ee574d850"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "948df8976b0c4ab3d24a2b5cdb734130688cc213a8a45aa97d418e7aaffca203"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f5211f97c4e414239ac95d342a7c1ae051c467d2"
+git-tree-sha1 = "2b70b9e0f1b712f7e0b1822fdee43ff10b1e6691"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "711c9c956224ab1eadabe849ff95545e09c0112d2fabf516ee73d5e9fddb8c75"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "dbe6cc30da77b402b2aa22c07f77288b7a184f1d5999e0f1918d84c061fcb0a2"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3f5b9991d19f4054964f7a2eb40935e1c9539ba6"
+git-tree-sha1 = "d4277e4d5ce8a4c8227e57ce811d6aaf4fc0106e"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "146501fe8d495273f9a9a277a4efda73977bafa9f992ee04ff820d34c3a10988"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "f7a508433f892dc3072b28af906130c03a7cc5ac9ddeb15b952026cd5ab64ec3"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "71e6b876920d417fb616eba88983540a23788683"
+git-tree-sha1 = "9358fe1c4b36d769c2fef63b69101ab3666c4ac4"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "6249cfffa38d8424ef3e710f20519bd4519f435136e28d864e8818608652909b"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "b0be820cbe8cd5854d3c75333c2122cb405aa72667b3027a7faf63be8f6c6080"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6c430ee18b4579a298f04e4ee4cd76ec68cc6ca3"
+git-tree-sha1 = "0b8075534820fe7a0e7ea025ee729840e8d9fc1a"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "017f0ea1298f4536b7152ecabbebacaee4a21131c95458432aa478a001ddbc4b"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "42c7c5cc23c97381eca164e72ac165c7872fbf3f243d6d2f7d646a8b49e3738d"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "57df669d888133211a5f7e54ae6495a3f6bf3f3c"
+git-tree-sha1 = "738d2a3ca23ef618974b45ec87c232fb78628c98"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "3d7fb51cc2fc76754130eee35326920a36a1d7d0de24c14fa3f7f2d0c726a0a0"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "b0c4f6744f68247ca7c97d430fa622789f22396ad0ee5c0148cc0e08025b80a5"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ee7979628cfb997837a9711830d376783053d39d"
+git-tree-sha1 = "1237c5801f386dbee22123bda8991ab94dc63f96"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "6f6b59514d687c2560ac1259dbe19496f9c396566942ecde90e584e5f9c4126d"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "39fd7d0bd2daedc286f2388ecb2af46147ea14446433d27e7b6c63941e4d31a7"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ccecda200dbaf4ea14a29f0ac42cf5c6cd3872f7"
+git-tree-sha1 = "513024982989cc06841df59a7be03f159ddbeb7f"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "3478c8688239b6f22219c8ee74c38a575e6da84955fe5f5d0afe4d5fc9f793e9"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "e7fc618eea5cf901bbcaeef4aa58ff94e796c1579edd2d13e92140561fdc948a"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "727c1474c30774b4465f640ac95533d6df6e790f"
+git-tree-sha1 = "ba7f74729820402a21cca5fac35b608eefee06de"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "e1b7c0a07a425a43b8b655550ce4e9b01bb29f15389ec88a078096a717c303dd"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "3662d0899948f0deedaf06aaac3be6c1741a8ee0d69c77f23dd433a10a8bea8f"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "301e34c6a840c10b2a60b85a2f0f297bb1eb984b"
+git-tree-sha1 = "57d32555600764c8cc0bc8782535cf9890337cc1"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "4a55eef96008ccdf2604b614090cad8e99ff8a622e8ef56f8747de3f86e71c2b"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "1d50a59985b227643280ef1883be182ec2d7e6506410b13eb8d1532c0fc3cbb1"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b4cd28e4c6eb6ba8cb6f6bec77a7f8e96c301ee6"
+git-tree-sha1 = "54cf45097e8cd687a457d6d5d0a314edb6bffe86"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "591abee4a2495869995dcd045470c185f54fafd782b2a74972032d2ddc551f99"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "5672292a218c670ff813d916484669f88371f8d2d65c791c0d98c6887b346212"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "89ef7d24061e79b582d964696fa7d33e066224d9"
+git-tree-sha1 = "c8030ca78a5b6644e109566da6fb8a1b2dfa1a0f"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "868da7905b1e0512f90e29d91d7448e215aa70c9e50a13367ca96fa4d5a055b6"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "8e22fd1f291a8b60961baf043a011276a7732cc44b3d1b0bf2b8c92f65cf2112"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e44d949a317d50b8c32250eb036b8f2156210e51"
-julia_version = "1.11.0"
+git-tree-sha1 = "f25b5fe6c2a36ed9de53916f995c3c72f6c7d0e9"
+julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "0b25386ebebd5a7033ff82268006868cae821c9c58d3bc6fee0037594af1511a"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.i686-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "48ddd6f741c75bc304cfa5f5af0979765b6b3931a2ecf297961ede568d93db7b"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.i686-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ff2fd251773fa9437eb75435d02c9fd0527a3645"
+git-tree-sha1 = "701a38c575a3d610f9320169adee322681c12f41"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "013302a24a364e602a4688cc0ede72148fb5a3092a7727fd5b3b8d186d3263a4"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "b50748f2b65568167e730f2fcb7eabdf27a2cbc6e920e7e73a9af3177099efa7"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "591fef327dc7fac4254484f7cb8ec7cabe13421e"
+git-tree-sha1 = "2c1cfcccde168384ad8e12ba9342607bd8ca74e6"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "0b875336b8adb0c247ea18ab8353a976faf2d9859ba12c783f000d133fbc3e7c"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "0f07cb308fc703cd09c2eb71ebfb1fe68c8a7af0b8bffa9d2c995352b3b2c7c2"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ac8c84030623496f89cec6aedf002807cd0f5735"
+git-tree-sha1 = "178b8bfed5b5742b923340136fa9d0e2eef03a01"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "51820827f1cf28248f8b212f93e47590979e4f0125998277aedb1a985510135f"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "a41fb649a054a2bc879d8bd3f79df883e8b3cd96559aa35b4132c6d8f07d472b"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d17a75a8e9389902a72adf7d0845440a80adbf57"
+git-tree-sha1 = "7861be02261a97ceb6af429d6af556962e833254"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "fcca2d1cc1987be0b20cc0bf33febc8711d943b681003651dd40bc29f46d093b"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.i686-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "a73f4fe842a2a183b46570491db0fa480d12c2f828e526ac2b743ce7e8f23db9"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.i686-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8cc5ee4b3ebddde708e575886fbe7d5a18cfd7ad"
+git-tree-sha1 = "0e25ee077c3618c5f6d5f71ef217b405c27e4fca"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "fb4ee6f708ded43228ab1ea5e538f0e5e11e2738d2d176855fa8318cb13488c7"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "a220871e58ae648d68d8ed5174bd0a03764a336059c2e590bdc88371cdb9c719"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ebdc0fc5022542f353c1b9c4ec63957ec8f2fec3"
+git-tree-sha1 = "e3bb563ba7341b204eaa3ec5ed1edc158d0af6a5"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "a16b40788bc3514df9325041eb992727d38f8bfbc91e71cd4b4e07c15a333f64"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "c87ac05a6169c160af60273b200115a9a4e1c9f462b552532f186b0713266b22"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "53d1aa09050a4063cdb9c935d10c728a68b0017d"
-julia_version = "1.11.0"
+git-tree-sha1 = "ce0fd3a27f87b3ea3d733c41b7c70d124c0179e0"
+julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "a9ab7a842961dae9bfffe4cac34d94b8e32cbcea63d79b78760274f7d593f03e"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.i686-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "6911712d84831733c1525b75b43e5a171f1e083fd8fb8887e9682fca04d84294"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f710c60f400fe2cee7b51e03c02d08e02ba986cd"
+git-tree-sha1 = "4572fea7581e9294e8f51f8738179c6819607f1f"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "991343197d3794a857b3ede19408a9a201df8bcd681c3ac6aed3f36fcf5c50de"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "d16ca83b9027689a3d21c4a46b1bf67b18622be1eddfe79db3cbc6e0ba99696c"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1c101be352a25aacfbc2579d3994d2d42baa72a7"
+git-tree-sha1 = "fea8a6680ac8dbc448961e2bf40e476700a4f85b"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "8da86975b6c553cc4613114cde246ec8ff3e740153d3fed647183f3670fa7170"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "f00c073045204ba0a0341494ec293a3de522eb037243e7b82914c5b47f8b7ae3"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "014fb6ad111b3e9bd374e5a0e48608ea66d93426"
+git-tree-sha1 = "20812a012cddba0797279f5ae51ccde22aa950dd"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "90dd57f029e61568fb3f0f0f40459ed6064b5a627e88a221f915d2756c552247"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "ece3c82f219546c87e7ab8d50bd4fd2761b6ad3c23e80073630530ed1264727e"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "82c4158487f32c58983308663c8ccbb28c0b4b90"
+git-tree-sha1 = "54b43b05d7fa3a58dafd98d4099516cdea8e9c0d"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "3d6873219a0208033da1925f74fca80e24609a3137217d6873e143623cd23be8"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.i686-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "b7f747cf6b1975acf8758010b3378ff9f411997103ef29114af53aa62cb4fcb1"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.i686-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1f3a2deab40772b6aa77c9d2b8b8c1714a8003e7"
+git-tree-sha1 = "d5ef8757ad914268a8b9d4f818653a576e1dc70f"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "272706dd0828b69d120a6957b6e5a0783e3bd8c9574c8186b02cb46c4ad9f780"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "2d6f83e17ac43a8a049a2473860cdc52870e2234f04c2a20acb852c42e1f20e0"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fbc99fbf14a2ba00a24fc7aa12111dc68a6fb869"
+git-tree-sha1 = "0aad4c224039ce0e921399a67c33b8079bbfa7d7"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "25bf95fabb347d32c79650c58ba618b786f7665b10417ac5b750cf585ff60d45"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "2fc337a8e0bb65ed1ec9028381b07f68340563f957488946e5a7d1e96ac9e052"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "03d01094689bb2045086ee8f4fd99fde026a6747"
-julia_version = "1.11.0"
+git-tree-sha1 = "934311cd2701e644c62109108a50145a41b76206"
+julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "b57887eb1ffe6c02b25ab1ce0dd789c9669821cee2fdd4dc5b552e1091d0ed6c"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "edf0d4ab75d3bb2908d2b1c049b67e12b30ac9f589a75c7406d57b63f0afb967"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dcfa168013d6d55f677928c55950878d724f00c6"
+git-tree-sha1 = "6a71cb44afcfde925e814befd9477275f7462c37"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "c087fb8b334e437a0bed63537788a46aa284e33530efd81472327fdd2ddc87aa"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "e91d786f4271a08234d3878edfed654f9c86ad0f5a80504edfece3c1059125bd"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "374eee665ed7bb93795ef9922e411e8efc06b360"
+git-tree-sha1 = "01dc99069399ecdfce0e5e56a41249218ba4180e"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "90efb8e2513d5aa8c3a1c95c1f1f47f91f12a404fd896511425ddbf45b95227f"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "167873f2251226e6599900964fedbb8ab033014dcecf23266ac03590bef4921b"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1c2f50fb984f2c18612a21f589f6327932bc1069"
+git-tree-sha1 = "d0df2e28db80d8a5d85b35ad5a3396565cf3fb7f"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "dc561234c838616d64a5a12b8a9898f5b03a5f306dff90a204100e67779ac48c"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "14b26a5ebf4b0fc83337ea1953ef55f81943e77dd799d7bef6178cba83699204"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e67ae1177f11a588ee3e6e1b712cac8b791b6df3"
+git-tree-sha1 = "7b1a02f1c46144a0c26457ef839913b42eaa4c7b"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "cd11d825e456738baff4687a56321f9105686f6a71764bbdebdfff488d7d2861"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "f8236fe58b77785f6c42fde1522a5712a65d1902027d7c34d4f71257424ce7c9"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "18fb1c0f0c8af9fe51cdf5dd32fcd646e22a1054"
+git-tree-sha1 = "6879c47136c2049b55ba9bf87a1d2c8b2a322a61"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "b6485dfb848c9342c57b6cca26c57e02f5551e33a90e78adaa7dda9cc3abb8dd"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "7e01e4e621544a31f8fc8de341d0ffb79a09de66dc71c87601f4f465469e29d7"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f848055f93455c17cf492ec0bed8432cdfec7d0b"
+git-tree-sha1 = "dbb36d4454589c4598b96d190f1e8cdde831d4e8"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "46c623df4230adb7c94667b8808a365b109fd6c0937789578e75a9ae8a4b75be"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "d488efc030f8013a5a01644c4a0f06dc2b426da774104372a7af02e348ba4224"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c1da4779606b8834293a8f9608f216b5cbccade4"
-julia_version = "1.11.0"
+git-tree-sha1 = "5b4f1a1809de4115397b506f35152e54cb87a49e"
+julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "7d3d3156b8c633cc82fcac193103ee64d5e5b06cd5a2041ccb3a047e5df44119"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "430c73f4d7ccfb8443225a7a69cb319b27f3e572327436c46d82734dc2e1b119"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "304429acb562af3b668d01e50e4ed5734b1deb33"
+git-tree-sha1 = "5400706d65f44a73bb61604284f760e099fb2d18"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "d7e922b684be82bc43c7599c5439f19f802ec0ecde1773598ab6e5877711bf32"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "8dde99addc9511b5ad3701035d38b6976b6f4fdfc0a847ad2cccfeebddd7394f"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d470bafc5ba7db8a0fce1a7edcf58a920685be05"
+git-tree-sha1 = "72b741b91342c58c3cf74de1ed64a4db16f040d1"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "60962dc8cf8f9e343a0106715927a1d74098ef4f285a0203ad9132b3de182922"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "b7c6ec46bbd79cb76a2e2bb39c9e21a5c8ab36c6a77501066ccc39adb3052d89"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "933e82997985a0a6e34601f053b418ee36c93d1d"
+git-tree-sha1 = "acd2ee361f5a54b8c9426e43321884a8d18a4ab6"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "49b7a987168c1a336895140757ca655008925e282ae2275929bdee91ac5994cc"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "dbf4564f8c6b9f2ac3a3f224919ccafbf29859199bea22a498103326b812ee42"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ad7f981be90bd032f6cd3c700eb0911ac239b75c"
+git-tree-sha1 = "c3f259661891e244c1fb60d1bbeb6c0c98c218f1"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "fec01357d1cda968dd6fc2f929428c906b569c5cd401daf6285653bdce497ca5"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "3681fcd66708f5d42d389b2d52fe03410ab481090be8fcd008c31ec975b0f299"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8d034a9070e2fc6e44e4c40321f4b2fdbe99ff87"
+git-tree-sha1 = "7c94f3108d7077061b1ea7cd9f32e8efb9e471e8"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "14943f27071006233d2586fd43cd6d3dad5ea213bc75e9315c51d9625b4124ef"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "78c9bf8689e28349f493bf173e7238be110fe68115343e99b51ddb8041b875e2"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "x86_64"
-git-tree-sha1 = "10ecc3d6f57456a077b8de8a1ef2d903362ebfaf"
+git-tree-sha1 = "82bebf0cbed4dcae21363f231280f8a55da16bcc"
 julia_version = "1.10.0"
 os = "macos"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "356c88917186c807a06a5d8a660e07cea16a6f92adfe0024653364e33e1ac896"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "32eab695803c57c4e8fb521139527bf17932b89b44fd64ee41d7d758d1fc33fa"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "x86_64"
-git-tree-sha1 = "f71fcf7a319a217f80c88403e4e3bfaad32137e0"
-julia_version = "1.11.0"
+git-tree-sha1 = "687aabeca241a0820db5cde9fe7819cd186417ef"
+julia_version = "1.11.1"
 os = "macos"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "bda4822d5e4b258d4f68f84172cc27d0da68f8a64b02cf48b043bedf5f6e3812"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
+    sha256 = "da327b3b193f188581279a7978e8bba20f07e0b521fa3ef0d727bff39dec3ed4"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "x86_64"
-git-tree-sha1 = "c5ab62d8b5fb17496a539dd1a8705fdceb79b830"
+git-tree-sha1 = "7f868501d4953e6e4087512247b78c3744f329b1"
 julia_version = "1.12.0"
 os = "macos"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "e53d2219bf6d333709586b911f7562fac045abbf5c694bea8e0bdbd7bf977d06"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "6768a308b9ce00ed9621dd288cbcb80a572d5f35a75ff1eaf94d392bae7e49d8"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "x86_64"
-git-tree-sha1 = "34df2bf1f785cf6fa16ed3605ad0ab76adb03c83"
+git-tree-sha1 = "dd1772ba7af85541f067f6e96bc47ac838badf02"
 julia_version = "1.6.3"
 os = "macos"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "3e036d04d06f583d8bef5c0b56ee474c8c3301338b9b790a3022d198d7d508d3"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
+    sha256 = "8c3101fb77881fcc76a605f7dd6b05f75f4b236323736ea56f9acb644487d73a"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "x86_64"
-git-tree-sha1 = "bd7dcebe34ffa370b10624220061c16cfcf727ea"
+git-tree-sha1 = "e7388948ba7a1fdd7e36e20f1aa23195c8a03e56"
 julia_version = "1.7.0"
 os = "macos"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "39c3c55582f6f4d87beffa95da7ee899487c2eaf9920d0c4660e7ddf7accd97d"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "66e731e6718cfd503df270203ad55fa2d3ecdfb5e3733df3ee3597ff287992fc"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "x86_64"
-git-tree-sha1 = "2d02344db7530ccc1caa6939a1119983c1843d3c"
+git-tree-sha1 = "f1a4611c90d990adb4e7c52400c2483f44ff3194"
 julia_version = "1.8.2"
 os = "macos"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "983452209b1e03b8cae1cde5dd94577b8c7264a023584fa44dafa24d6670c6dd"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "839a56097a8ad75efe55ce81274265a7a0a51cc12410b0a4280ac75bd5e6d6f3"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "x86_64"
-git-tree-sha1 = "d7ad721e9115a1f5f324b05d32b07175594ccfa8"
+git-tree-sha1 = "49bc9d394e78d353502e31e754639c83ae7b8213"
 julia_version = "1.9.0"
 os = "macos"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "b50313bbb21709ab9cb8915a0a13bb8aa1c1cc64a34f95d1b248a06393495963"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "fe310f3e20b03d33225fce79b23bcd8c6648fb9fd2154868f43c5514a60828b0"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0c7d860ace3be316364396c57856c571992e201a"
-julia_version = "1.10.0"
-libc = "glibc"
-os = "linux"
-
-    [[XRootD_cxxwrap.download]]
-    sha256 = "c84021595bf04af886aa4ede06b67608bdf64349e044594624b08b5d5c8f6f15"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
-[[XRootD_cxxwrap]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1657ce46cbf2a1b8a8c6e0b5ddb9e6db4351aee4"
-julia_version = "1.11.0"
-libc = "glibc"
-os = "linux"
-
-    [[XRootD_cxxwrap.download]]
-    sha256 = "ebbb95bcb4e4205f11485bf414568037843af9fd466db0a4a05147c8031fa5a2"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
-[[XRootD_cxxwrap]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "82ce30e9eb831806540c95ece200b7538390ef44"
-julia_version = "1.12.0"
-libc = "glibc"
-os = "linux"
-
-    [[XRootD_cxxwrap.download]]
-    sha256 = "2c0a59380bd0604f8938a0601eeba72bbf9c171606fddf547ab0d10c3a5abe9f"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
-[[XRootD_cxxwrap]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "26507a29b45ab9ab44121e2654d3cc65a93ee44f"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[XRootD_cxxwrap.download]]
-    sha256 = "01df224bdeb0f8c6738e1681354c8438738fb8696a592a59f67a4230ac9d67ba"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
-[[XRootD_cxxwrap]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "5eef2bb4ad57d450da0afd191e29d34fc398ecea"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[XRootD_cxxwrap.download]]
-    sha256 = "4e9f91f0093821bef6df58779b31e39a10a63e40b79208fe0f09f0c18b1f02b9"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
-[[XRootD_cxxwrap]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "0daac932e540f2038e79caed256229c260c53cba"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[XRootD_cxxwrap.download]]
-    sha256 = "8b112d0aea19bfc5aa1751c15828996ec12af0eba9881f21b0d4e1e152ebb0c0"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
-[[XRootD_cxxwrap]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ab14ae15dcc54de4fc09ce5f5a4c52d3c16fd4f5"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[XRootD_cxxwrap.download]]
-    sha256 = "4ee70a6e41a1c124fbebff3e70489400b569ceb8eae0cdf2931dd2ee0d5e3202"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
-[[XRootD_cxxwrap]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "408674e72c15e7dea0d22e97deb970619c4e6093"
+git-tree-sha1 = "486782926a4fd68b02084a5125594f02e2d1c5fa"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "f91d8d71d23ed417ef57da3f6f032c88c64afcee36b7545c7bfe369f6d49c67f"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "d5b731c6c5313755609e270d25c2710c455788183579ef10e13440512958cf18"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e9461392f0b12d94a12afaa904d385db3d1eda8c"
-julia_version = "1.11.0"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2597736e41f16ea7c9235336cb651141b72ec791"
+julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "1ca518db76c08724b6dea434a5d3358d8f4ae6bc034a052c7978534b841661e8"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "a0f3dc63041c8a45d04c55b5fe912f9938240ab9fa7bbd8d4f61d4821141199f"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "aa14fed41326fbe06dd8d6e0af653b9829e95a8d"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "36d59b570b0928c1af354c591614a2e3c002d703"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "fbadc73802a00dbdf28fee111c3421718ebd434bd42495abbea0cc3fecaccff4"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "1c71ea2d5b7715bea454bf47ef35da6ef74bb7cbd47998ad5a080866bd63c160"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b42925d75abada6fa33944bcf6938d5b574f358b"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7faefe5c9b74528d6eec4d39a692ab8c52c07bad"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "4011fd5686338fce6701e7323b969e56d88e1b4c204b69739c14660b134a1a20"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "4a0f119af8e5a8164c83dc22c5722afb1cb4d5c6654dced436e3512a3b59e959"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d41ecdba607fa86280eeb11cb18d3626d9dc5cfa"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "059504a1a7635d46ed5832216d1f009e4c9070f7"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "1960c2d3322fc1d856eceef61217af9138809f5175b8755be60e82af8eb9e54a"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "54ce0e8f23801f2cbc34291856c669a61f7ee530af8efaf05900626e78c4b0df"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a1f3c3be9586b741c9894cfb137bb07ff28e8069"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "44a1ef2916cd68b315baeb93c6f7ef0c86899e8b"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "8554321489d9b683d2fadac691d9f2e22ce9ec35ea4f7f4ca6207e56d9f2088d"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "e4002433a2a8e5298bfce9d014cfda551c176d379bd47c3a7013f0e52ed701c8"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[XRootD_cxxwrap]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a44dfb9686bd2daf4df5854d4c2f6480ed68fed7"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5f0c7e77f0c8e58f48f17663adfa3b20fcadefa4"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[XRootD_cxxwrap.download]]
-    sha256 = "9a0425aa3b4f14aa12dd88ad9a042ba46d67af3e4939482cabcb8b8a1caa0f00"
-    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.1.0+0/XRootD_cxxwrap.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "b3fb56bf27f5f27737467db1e403a6ad7bdb043e5e3dfd405d7ef914178cc2a4"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[XRootD_cxxwrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9fa1eb9939a87c8a43c8b571fdcdc0d01536ed18"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[XRootD_cxxwrap.download]]
+    sha256 = "86ee49d97de97c837263a25bf8f4c7517a307961955a2bb53bfcb765e7f97c38"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[XRootD_cxxwrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "07b59b014513a4907a7ac341fcec6736c9f66485"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[XRootD_cxxwrap.download]]
+    sha256 = "b0dff5df27c1b4482e0fbca46ec38611fb15701a25aef35947b3d13179bc9cda"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[XRootD_cxxwrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b56710d1c61c0eddeafbea687d143c24118b0367"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[XRootD_cxxwrap.download]]
+    sha256 = "d6369e78f9cdc86df233426ef5b678d536cfec7cb5e322a86f768bb6ee8e9817"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[XRootD_cxxwrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7642ca4891f40ed265b614834b5c999f8875df2c"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[XRootD_cxxwrap.download]]
+    sha256 = "2b2f54677f11dbea1db54bfb247435759bdbdce102c24239e1898a088b9efd58"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+[[XRootD_cxxwrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "167390ae41bd518b2ed568fd814fcf599cd3fdec"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[XRootD_cxxwrap.download]]
+    sha256 = "7bc738c9f9bb1cd6f1b55f78064f59144eb4c7d806ecde9d08bba47f33a430ae"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[XRootD_cxxwrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9dd3476c00fddcb86d9ce790dc26db8a0b1db1a7"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[XRootD_cxxwrap.download]]
+    sha256 = "243980a0eec95073b945c115bf8324e9a05aac0b1bdcde4a5b2f9b0fbcadf1de"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[XRootD_cxxwrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b59c2148845dded5aed707745de6d5b287099c8e"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[XRootD_cxxwrap.download]]
+    sha256 = "dea197920206fb2b63e89e5954bf3458fbc15a87c5834fe91add16733e580edf"
+    url = "https://github.com/JuliaBinaryWrappers/XRootD_cxxwrap_jll.jl/releases/download/XRootD_cxxwrap-v0.2.0+0/XRootD_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
